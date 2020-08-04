@@ -1,0 +1,22 @@
+{
+  "name": "test-ghaction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elevatebart/test-ghaction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elevatebart/test-ghaction/issues"
+  },
+  "homepage": "https://github.com/elevatebart/test-ghaction#readme",
+  "dependencies": {
+    "jest": "^26.2.2"
+  }
+}
