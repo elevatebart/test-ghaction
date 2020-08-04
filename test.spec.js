@@ -1,5 +1,5 @@
 describe("forward", () => {
   test("passing", () => {
-    expect(false).toBe(true);
+    expect(typeof cellular).toBe("undefined");
   });
 });
